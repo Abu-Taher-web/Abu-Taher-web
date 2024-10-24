@@ -1,5 +1,5 @@
 🎓 MSc in Computer Science (Major in Artificial Intelligence) | University of Oulu, Finland  
-📡 BSc in Electronics & Communication Engineering | Khulna University of Engineering and Technology, Khulna, Bangladesh
+📡 BSc in Electronics & Communication Engineering | Khulna University of Engineering and Technology, Khulna, Bangladesh  
 🚀 Telecommunications Engineer | AI researcher | Autonomous Drone Enthusiast  
 🌱 Passionate about AI applications in Agriculture & Health  
 💻 Skilled in Web Development, Database Design, Electronics-IoT, and Machine Vision Projects
